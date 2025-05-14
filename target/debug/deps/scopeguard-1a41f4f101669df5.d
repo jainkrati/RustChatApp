@@ -1,7 +1,0 @@
-/Users/kratijain/Documents/Projects/Side Projects/target/debug/deps/libscopeguard-1a41f4f101669df5.rmeta: /Users/kratijain/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scopeguard-1.2.0/src/lib.rs
-
-/Users/kratijain/Documents/Projects/Side Projects/target/debug/deps/libscopeguard-1a41f4f101669df5.rlib: /Users/kratijain/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scopeguard-1.2.0/src/lib.rs
-
-/Users/kratijain/Documents/Projects/Side Projects/target/debug/deps/scopeguard-1a41f4f101669df5.d: /Users/kratijain/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scopeguard-1.2.0/src/lib.rs
-
-/Users/kratijain/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scopeguard-1.2.0/src/lib.rs:
