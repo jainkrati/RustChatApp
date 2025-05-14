@@ -1,0 +1,1 @@
+/Users/kratijain/Documents/Projects/Side\ Projects/target/debug/rust_chat_app: /Users/kratijain/Documents/Projects/Side\ Projects/src/client.rs /Users/kratijain/Documents/Projects/Side\ Projects/src/main.rs /Users/kratijain/Documents/Projects/Side\ Projects/src/server.rs
